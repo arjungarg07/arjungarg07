@@ -15,9 +15,9 @@
 
 ### (नमस्ते) hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-hi, I'm [Arjun Garg](https://lu.ma/arjun), a computer science junior and a software developer from India. i like to reflect on ideas that struck at midnight and build automation tools to boost productivity. i love devising a better problem-solving method for challenging tasks and learn new technologies and tools if the need arises. . I take great care in the architecture and code quality of the things i build.
+hi, I'm [Arjun Garg](https://lu.ma/arjun), a computer science junior and a software developer from India. i like to reflect on ideas that struck at midnight and build automation tools to boost productivity. loves devising a better problem-solving method for challenging tasks and learn new technologies and tools if the need arises. I take great care in the architecture and code quality of the things i build.
 
-I am a open source enthu who loves to collaborate and share knowledge with other contributors. Currently a member of TSC at [AsyncAPI Initiative](https://github.com/asyncapi) 🚀
+i am a open source enthu who loves to collaborate and share knowledge with other contributors. Currently a member of TSC at [AsyncAPI Initiative](https://github.com/asyncapi) 🚀
 
 
   <img align="right" alt="GIF" src="./developer.gif" width="500" height="320" />
@@ -45,10 +45,12 @@ I am a open source enthu who loves to collaborate and share knowledge with other
 <br>
 <br>
 <br>
+<br>
+<br>
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arjungarg07&show_icons=true&count_private=true&theme=gotham" alt="arjungarg" />
 
 ## Connect with me here
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjungarg17/)](https://www.linkedin.com/in/arjungarg17/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjun.garg.cse01@gmail.com)](mailto:arjun.garg.cse01@gmail.com)                                                                                             
-<a href="https://twitter.com/arjungarg07"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arjungarg07?style=social" /></a>   
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjun.garg.cse01@gmail.com)](mailto:arjun.garg.cse01@gmail.com)                
+[![Twitter Follower](https://img.shields.io/twitter/follow/arjungarg07?style=social)](https://twitter.com/arjungarg07)                                                                             
