@@ -52,5 +52,4 @@ i am a open source enthu who loves to collaborate and share knowledge with other
 
 ## Connect with me here
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjungarg17/)](https://www.linkedin.com/in/arjungarg17/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjun.garg.cse01@gmail.com)](mailto:arjun.garg.cse01@gmail.com)                
-[![Twitter Follower](https://img.shields.io/twitter/follow/arjungarg07?style=social)](https://twitter.com/arjungarg07)                                                                             
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjun.garg.cse01@gmail.com)](mailto:arjun.garg.cse01@gmail.com)   [![Twitter Follower](https://img.shields.io/twitter/follow/arjungarg07?style=social)](https://twitter.com/arjungarg07)                                                                             
