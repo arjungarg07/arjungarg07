@@ -15,7 +15,7 @@
 
 ### (नमस्ते) hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-hi, I'm [Arjun Garg](https://lu.ma/arjun), a computer science junior and a software developer from India. i like to reflect on ideas that struck at midnight and build automation tools to boost productivity. loves to reverse engineer tools, devising a better problem-solving method for challenging tasks and learn new technologies and tools if the need arises. I take great care in the architecture and code quality of the things i build.
+hi, I'm [Arjun Garg](https://lu.ma/arjun), a software developer from India. i like to reflect on ideas that struck at midnight and build automation tools to boost productivity. loves to reverse engineer tools, devising a better problem-solving method for challenging tasks and learn new technologies and tools if the need arises. I take great care in the architecture and code quality of the things i build.
 
 i am a open source enthu who loves to collaborate and share knowledge with other contributors. Currently a member of TSC(Technical Steering Committee) at [AsyncAPI Initiative](https://github.com/asyncapi) 🚀
 
