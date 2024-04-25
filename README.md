@@ -27,7 +27,10 @@ i am a open source enthu who loves to collaborate and share knowledge with other
 
 ### languages and tools:
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/> </a>
+
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a>
+
+
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp cloud" width="70" height="70"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="k8s" width="50" height="50"/> </a>
 <br>
