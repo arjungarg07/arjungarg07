@@ -33,16 +33,9 @@ i am a open source enthu who loves to collaborate and share knowledge with other
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="27"/> </a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="27"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="27"/> </a>
-<a href="https://reactjs.org//" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="27"/> </a>
-<a href="https://nodejs.org" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="27"/> </a>
-<a href="https://expressjs.com" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="27"/>
 <a href="https://www.mysql.com/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="27"/>
 <a href="https://redis.io" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="27"/> 
-<a href="https://www.w3.org/html/" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="27"/>
-<a href="https://tailwindcss.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="27"/> </a>
- <a href="https://git-scm.com/" target="blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="27"/> </a>
 <a href="https://postman.com" target="blank">  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
-<a href="https://heroku.com" target="blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="27"/> </a>
 <br>
 <br>
 <br>
